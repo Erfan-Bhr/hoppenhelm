@@ -1,5 +1,5 @@
 # Hoppenhelm Game (JavaFX)
 
-Mehdi Soraki
-Erfan Bahari
-MohammadBagher Bayat
+* Mehdi Soraki
+* Erfan Bahari
+* MohammadBagher Bayat
